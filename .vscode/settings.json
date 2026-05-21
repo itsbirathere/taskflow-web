@@ -1,0 +1,12 @@
+{
+  "css.customData": [],
+  "tailwindCSS.experimental.classRegex": [],
+  "css.lint.unknownAtRules": "ignore",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixall.format": "explicit"
+  }
+}
